@@ -1,0 +1,1 @@
+깃만들기 -> .gitignore만들기 -> 깃허브 -> new -> 리포지터리 이름 정하기 -> 아래로 스크롤 복사 -> 비주얼 스튜디오 Developer PowerShell 붙여넣기 ->
